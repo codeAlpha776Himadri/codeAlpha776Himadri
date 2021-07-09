@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeAlpha776Himadri
+- 👋 Hi, codeAlpha776Himadri here
 - 👀 I’m interested in coding - debugging - reimplementing
 - 🌱 I’m currently learning MERN 
 - 💞️ I’m looking to collaborate on web dev projects
