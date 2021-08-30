@@ -1,8 +1,8 @@
 <h2>
-  - 👋 Hi, codeAlpha776Himadri here
-  - 👀 I’m interested in coding - debugging - reimplementing
-  - 🌱 I’m currently learning MERN 
-  - 💞️ I’m looking to collaborate on web dev projects
+  - 👋 Hi, codeAlpha776Himadri here <br>
+  - 👀 I’m interested in coding - debugging - reimplementing <br>
+  - 🌱 I’m currently learning MERN <br>
+  - 💞️ I’m looking to collaborate on web dev projects <br>
   - 📫 You can reach me @stoic.himadri >> instagram
 </h2>
 
