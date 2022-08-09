@@ -1,4 +1,4 @@
-<h2>Hey ! there  I'm Himadri Chakraborty</h2>
+<h2>Hey ! there  I'm Himadri Shekhar Chakraborty</h2>
 
 <b>I'm MERN stack developer and Problem Solver 🐱‍💻</b>
 
