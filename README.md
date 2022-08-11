@@ -16,7 +16,7 @@
 </ul>
 
 <h5>Frontend Skills</h5>
-<ul>
+<ul list-style-type="circle">
 <li>html5 - ⭐⭐⭐⭐</li>
 <li>css3 - ⭐⭐⭐⭐</li>
 <li>React - ⭐⭐⭐</li>
