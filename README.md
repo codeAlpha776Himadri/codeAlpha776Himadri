@@ -1,9 +1,9 @@
 <h2>Hey ! there  I'm Himadri Shekhar Chakraborty</h2>
 
-<b>I'm MERN stack developer and Problem Solver 🐱‍💻</b>
+<b>I'm java, MERN stack developer and Problem Solver 🐱‍💻</b>
 
 <ul>
-<li>👀 Looking for SDE Full Time Roles.</li>
+<li>👀 Looking for SDE Intern Roles.</li>
 <li>💞️ Would love to collaborate on Web Development Projects.</li>
 <li>📫 Mail me here: hck364864@gmail.com</li>
 </ul>
