@@ -1,18 +1,18 @@
-<h2>Hey ! there  I'm Himadri Shekhar Chakraborty</h2>
+<h2>Hey!  Myself <b><i>Himadri Shekhar Chakraborty</i></b></h2>
 
-<b>I'm java, MERN stack developer and Problem Solver 🐱‍💻</b>
+<b>I'm Java, MERN stack developer and Problem Solver 🐱‍💻</b>
 
 <ul>
-<li>👀 Looking for SDE Intern Roles.</li>
-<li>💞️ Would love to collaborate on Web Development Projects.</li>
+<li>Currently Working as Software Dev <h5><a href="https://www.amdocs.com/">AMDOCS INDIA</a></h5></li>
+<li>💞️ Would love to collaborate on Software Development Projects.</li>
 <li>📫 Mail me here: hck364864@gmail.com</li>
 </ul>
  
 <h5>Languages I Know</h5>
 <ul>
-<li>javascript - ⭐⭐⭐</li>
-<li>C++ - ⭐⭐⭐⭐⭐</li>
-<li>JAVA - ⭐⭐⭐</li>
+ <li>JAVA - ⭐⭐⭐⭐⭐</li>
+ <li>C++ - ⭐⭐⭐⭐⭐</li>
+<li>javascript - ⭐⭐⭐⭐</li>
 </ul>
 
 <h5>Frontend Skills</h5>
@@ -29,12 +29,19 @@
 <li>Express JS - ⭐⭐⭐</li>
 <li>MongoDb - ⭐⭐⭐</li>
 <li>Firebase - ⭐⭐</li>
+<li>MySQL - ⭐⭐⭐⭐</li>
+<li>Spring - ⭐⭐⭐⭐</li>
+<li>Spring-Hibernate - ⭐⭐⭐</li>
+<li>Spring-JDBC - ⭐⭐⭐⭐</li>
+<li>Spring-Boot - ⭐⭐⭐⭐</li>
 </ul>
 
 <h5>Other Skills</h5>
 <ul>
 <li>DSA - ⭐⭐⭐⭐</li>
 <li>Problem Solving - ⭐⭐⭐⭐</li>
+<li>Docker - ⭐⭐⭐</li>
+<li>Kubernetes - ⭐⭐⭐</li>
 <li>ThunderClient - ⭐⭐</li>
 <li>Git - ⭐⭐⭐</li>
 <li>GitHub - ⭐⭐⭐</li>
