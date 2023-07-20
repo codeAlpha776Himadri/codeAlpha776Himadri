@@ -3,7 +3,7 @@
 <b>I'm Java, MERN stack developer and Problem Solver 🐱‍💻</b>
 
 <ul>
-<li>Currently Working as Software Dev <h5><a href="https://www.amdocs.com/">AMDOCS INDIA</a></h5></li>
+<li>Currently Working as Software Dev <span><h5>@<a href="https://www.amdocs.com/">AMDOCS INDIA</a></h5></span></li>
 <li>💞️ Would love to collaborate on Software Development Projects.</li>
 <li>📫 Mail me here: hck364864@gmail.com</li>
 </ul>
